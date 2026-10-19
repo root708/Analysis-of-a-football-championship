@@ -51,7 +51,7 @@ Les données brutes contiennent volontairement des défauts (doublons, salaires 
 ## Lancer le projet
 
 ```bash
-git clone https://github.com/TON-PSEUDO/Analysis-of-a-football-championship.git
+git clone https://github.com/root708/Analysis-of-a-football-championship.git
 cd Analysis-of-a-football-championship
 pip install -r requirements.txt
 jupyter notebook analysis.ipynb
