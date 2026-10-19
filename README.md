@@ -2,7 +2,7 @@
 
 Analyse avec **Pandas** d'un championnat de football fictif, la **Ligue Pro** (20 clubs), sur trois saisons : 2023-2024, 2024-2025 et 2025-2026.
 
-> TP2 — Python Avancé · Licence 3 Intelligence Artificielle · ISM École d'ingénieurs
+> — Python Avancé · Licence 3 Intelligence Artificielle · ISM École d'ingénieurs
 
 ## Contenu du dépôt
 
